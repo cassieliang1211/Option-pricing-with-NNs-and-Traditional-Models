@@ -1,4 +1,4 @@
-# Option-pricing-with-NNs-and-Traditional-Models
+# Option_pricing_with_NNs_and_Traditional_Models
 A project to price financial options using traditional models and neural network models is written in Python. 
 
 Trained neural network(RNN) models to price options with different expiration times. Compared the accuracy of different pricing methods (traditional methods and NN models) to find the best model in different situations. 
